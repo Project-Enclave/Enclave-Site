@@ -1,0 +1,2437 @@
+<html>
+	<head>
+		<title>just a log hehe </title>
+	</head>
+	<body>
+		~/Enclave-Messenger (main)> git log --reverse
+commit b6f1e11e54f71cc6f5e1a130f040b77749062aa0
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Dec 18 17:18:58 2024 +0530
+
+    Initial commit
+
+commit d19411b58c20edb2e20ad625475cf4ed14c41400
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Dec 18 19:50:43 2024 +0530
+
+    Update README.md
+
+    Country of origin and authors
+
+commit fca7e483551c290342c126b4626ec1cbb39ef1ea
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Dec 18 20:14:26 2024 +0530
+
+    Update README.md
+
+    Rename
+
+commit 557ef9c5b7744a280463ec31cb795d0e89d4b3fe
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Dec 18 20:17:46 2024 +0530
+
+    Update README.md
+
+    grammer
+
+    Update README.md
+
+    into added
+
+    The Idea
+
+    This is the idea
+
+    Update the idea.py
+
+    Update the idea.py
+
+    Update the idea.py
+
+    Update the idea.py
+
+    Update the idea.py
+
+    New Enc
+
+    Update LICENSE
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update
+
+    Update
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Delete T directory
+
+    Update README.md
+
+    Update README.md
+
+    Add files via upload
+
+    Encsms icon
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Create comm
+
+    Update
+
+    Update README.md
+
+    https://github.com/SilenceIM/Silence
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    changed the name
+
+    Update README.md
+
+    Update the idea.py
+
+    Update README.md
+
+    Create the app
+
+    Create the app for android.py
+
+    Rename the app to the app.py
+
+    Create Release.py
+
+    Create Release.py
+
+    Create Release.py
+
+    Delete IMG-20241220-WA0000.jpg
+
+    Delete comm
+
+    Delete rupert icon.png
+
+    Delete tos.txt
+
+    Delete the app.py
+
+    Delete the app for android.py
+
+    Delete the idea.py
+
+    Delete CODE_OF_CONDUCT.MD
+
+    Create SECURITY.md
+
+    Create icon.png
+
+    Create ext/Readme.txt
+
+    Update Release.py
+
+    Add files via upload
+
+    Delete Apps/Android/icon.png
+
+    renamed
+    renamed
+
+    test
+
+    Update Release.py
+
+    commit
+
+    Update README.md
+
+     Please enter the commit message for your changes. Lines starting
+
+    Update Release.py
+
+    Create Release_V0.2.py
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Create .github/workflows/python-lint.yml
+
+    Update python-lint.yml
+
+    Update Release.py
+
+    Update Release.py
+
+    Update Release.py
+
+    Update Release.py
+
+    Update Release.py
+
+    Update Release_V0.2.py
+
+    Update Release.py
+
+    Update python-lint.yml
+
+    Update README.md
+
+    Create index.html
+
+    Rename ext/sites/vercel/index.html to index.html
+
+    Update index.html
+
+    Update index.html
+
+    Update index.html
+
+    Update index.html
+
+    Update index.html
+
+    Update Release_V0.2.py
+
+    Create discord
+
+    Delete .well-known directory
+
+    Update README.md
+
+    New ideas
+
+    Update README.md
+
+    Update README.md
+
+    nopoei
+
+    Update index.html
+
+    Update index.html
+
+    Update index.html
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Delete ext/icon.png
+
+    Add files via upload
+
+    Icons
+
+    Create readme.md
+
+    Add files via upload
+
+    Update index.html
+
+    Update R
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Create notes.md
+
+    Delete .github/workflows/python-lint.yml
+
+    It fails at doing nothing
+
+    Update notes.md
+
+    Create static.yml
+
+    Update README.md
+
+    Add files via upload
+
+    Delete Apps/Main/enclave_messenger_gui.py
+
+    Delete Apps/Main/Release.py
+
+    End of Beginning
+
+    Create readme
+
+    Delete Apps/Main directory
+
+    Update notes.md
+
+    Add files via upload
+
+    Beginning
+
+    nn
+
+    nnn
+
+    Delete Apps/CLI/Release.py
+
+    Delete Apps/CLI/Release_V0.2.py
+
+    Create Enclave-messenger_cli.py
+
+    Delete Apps/Android directory
+
+    Create Enclave_messenger_web.py
+
+    Create secure_messenger.py
+
+    Create secure_messenger.py
+
+    Create secure_messenger.py
+
+    Update README.md
+
+    Update SECURITY.md
+
+    Update SECURITY.md
+
+    Add files via upload
+
+    Update README.md
+
+    Delete style.css
+
+    Delete index.html
+
+    Delete app.js
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    ✨️Dreams✨️
+
+    Update README.md
+
+    Update ✨️dreams✨️.md
+
+    ✨️why do i like her?✨️
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Update README.md
+
+    Restore GitAds sponsorship section in README
+
+    Reintroduced GitAds sponsorship section in README.
+
+    Update README.md
+
+    Update README.md
+
+    why am I doing this
+
+    Create .well-known/discord
+
+commit 84480a20611fd344a786778252051bca9473af46
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Apr 25 17:57:43 2026 +0000
+
+    RE DO IT DOE ASDFGHJKL
+    Gidfhiufhvfklgihoinjdfgj;ntrkld
+    noe i neew to reonfev
+    gerat
+
+commit 8afc94107d031f8f6291aa68bfd48a624c14aba8
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Apr 25 23:29:42 2026 +0530
+
+    Delete .github/workflows directory
+
+commit 66d33a3d9c33ed51d5b4d95f67eb357e98786cff
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Apr 25 23:29:55 2026 +0530
+
+    Delete .well-known directory
+
+commit e50db004dc33b5593f18d118d54de24968515445
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Apr 25 23:31:13 2026 +0530
+
+    Create README.md for enclave messenger
+
+    Add initial README for enclave messenger project
+
+commit 331c9f20288094d1580e2bdb7f2213d24a2d1f3f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 06:30:22 2026 +0530
+
+    Add SMS transport layer option to README
+
+commit b6c73256c60bf876c59b9a5de54fa6c48dbcd33f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 08:13:20 2026 +0000
+
+    Checkpoint #1/break
+
+commit 91f9e72c48f2d63c4fddc1d743f21d1f92f8e747
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 10:17:27 2026 +0000
+
+    something blind
+    ho ho im blind!
+
+commit 32bd232303b2db147440dcfebc8287f95291c566
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 18:11:13 2026 +0530
+
+    feat: add Flask web entrypoint (web.py)
+
+commit 13dc7403b7b346a7502dbe110f6a7039cd5af0ed
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 18:47:12 2026 +0530
+
+    feat: add core/storage module (config, keys, chats, logs)
+
+commit 459f898eefd449363f19a9adcdd4de2c3571ad07
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 19:29:52 2026 +0530
+
+    feat: add SMS plugin + update main.py and web.py
+
+commit d75191f5cc60669c19dea1167aa6626b60fed1be
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 19:33:36 2026 +0530
+
+    feat: add setup.py and update requirements.txt
+
+commit af28c2f6dc1262e75d5f4dbe8c65a2c02ba3574a
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 19:39:10 2026 +0530
+
+    fix: fallback to uv venv when pip is unavailable
+
+commit adaa1819b5ad1b1d6a9a1b771f7f1d30bfabf980
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 19:51:19 2026 +0530
+
+    fix: expose error details in SMS routes, add SMS config UI section
+
+commit 87560222f8a48950c6fc28825af85f1d5b28eba8
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 19:55:14 2026 +0530
+
+    fix: strip port from host if already included to avoid double-port URL
+
+commit 6566972263526d30abdb9fd9679d4e7936a98b3f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 20:20:13 2026 +0530
+
+    feat: redesign web chat UI to modern three-panel layout
+
+commit 8967eb78c45a0a33c0794c15fc49c7bc0066a50d
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 20:34:39 2026 +0530
+
+    feat: full two-panel chat UI with Enclave-Site theme + real chat history
+
+commit 351b67405c130614470781437e0c3211f960bb44
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 20:49:23 2026 +0530
+
+    fix: wire sendMessage to POST /api/sms/send when chat ID is a phone number
+
+commit 0e39df957d09a421985693d94fd9ad90bf4aeb3a
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 20:57:13 2026 +0530
+
+    fix: auto-decrypt on passphrase input (web.py) + smart decrypt in main.py
+
+commit 0e676d8dda928122d7ff922f3622e1176cff4466
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Apr 26 21:13:05 2026 +0530
+
+    fix: ChatStore stores JSON lines, handles dict and str entries, migrates old files
+
+commit 005aeb1d1f3a85143c57756364cac4905d8e5b03
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 15:50:23 2026 +0530
+
+    feat: add Flutter GUI scaffold + Codespaces devcontainer
+
+commit 2fcba04decb419c29430bbbb641506f5b4dc263b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 15:58:09 2026 +0530
+
+    Add CodeQL analysis workflow configuration
+
+commit 27d87b7aa35e22aab67950a4c4978defd3fc76ff
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 16:16:13 2026 +0530
+
+    feat: add reset.py — full undo of setup.py
+
+commit 8f705841e0b196fbb5f960fb027ab4b3da67c697
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 16:41:22 2026 +0530
+
+    refactor(crypto): remove Vigenere/Caesar layers, pure AES-256-GCM only
+
+    Removed pre_encrypt/pre_decrypt (Vigenere + Caesar cipher layers) and
+    the prekey parameter entirely. Encryption is now pure AES-256-GCM with
+    Scrypt KDF. No functional change to the envelope format.
+
+commit ec62315ab43b83eaa3e9d57335280989986071a0
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 16:41:40 2026 +0530
+
+    chore(storage): export PeerStore
+
+commit 8661aabad0ae21c4fdb148912bd722e1e1918db6
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 16:52:25 2026 +0530
+
+    feat(network): add core/network/ — discovery, transport, router
+
+    - peer.py: Peer dataclass
+    - peer_store.py: already added
+    - discovery.py: UDP broadcast presence on LAN, listens for peers
+    - transport.py: HTTP server (receives messages) + HTTP client (sends)
+    - router.py: top-level send/receive API, ties everything together
+    - __init__.py: exports Node (the single object main.py instantiates)
+
+commit 6ce5f215b38420c20cebbbc55c14961853375802
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 16:55:40 2026 +0530
+
+    refactor(main): make main.py the app coordinator
+
+    - Node (network) is created and started here
+    - Exposes clean API for web.py and future UIs to import
+    - CLI commands preserved (init, encrypt, decrypt, sms)
+    - New 'run' command starts the node + keeps it alive
+
+commit c317d0d7bf5c4c0ad80dfd576a7d59691eba97ea
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:00:11 2026 +0530
+
+    refactor(web): import everything from main.py, drop direct core imports
+
+    - All routes now go through main.py API functions
+    - Removed direct imports of CryptoManager, IdentityManager, ConfigStore, ChatStore
+    - Added /api/peers route
+    - Added /api/node/start route so UI can unlock the node
+    - Removed prekey from encrypt/decrypt routes (no longer exists)
+    - sendMessage() in JS now tries node delivery for peer chats, SMS for phone numbers
+
+commit 5a35f3029a8838e14be414d030f88cb1572ca983
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:14:42 2026 +0530
+
+    feat(web): add centered unlock dialog on first load
+
+commit 88c0d5d2b9d669e65448217e617b2e52137c7cf3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:23:41 2026 +0530
+
+    feat: replace newChat prompt() with styled center modal (ip/phone/name fields)
+
+commit 6ce8ee1ad0e2fb6e3c5b376d713de921dd873a36
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:29:22 2026 +0530
+
+    feat: add input validation to new-chat modal (format checks + live feedback)
+
+commit 46d06eb060eac59de68ee0b7bc40f6ef1067ed0b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:43:03 2026 +0530
+
+    feat: animated splash screen + UI micro-animations
+
+commit e60e0c3eda334f94d3c357644abaf83f228afa42
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:51:01 2026 +0530
+
+    feat: remove all emojis, center sidebar logo
+
+commit 3ac0b0db6a7816a0306b21fcbec5691b31d13f41
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 17:57:39 2026 +0530
+
+    feat: peer detection panel + animated settings menu
+
+commit c17a26a8cc9c3a7b731eeda315f70efd09c8d1b3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:05:33 2026 +0530
+
+    feat: LAN peer detection + enhanced settings/peers animations
+
+commit 3e23345e422bf90755ea090767e0e9f58cd22bf0
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:07:40 2026 +0530
+
+    fix: remove stale prekey arg from tests (not in CryptoManager API)
+
+commit 6e3a627fa398a1dd411fc40e925a39623a7fb413
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:13:52 2026 +0530
+
+    fix: make sidebar footer scrollable so SMS config is reachable
+
+commit 4662c9edc581c8e10c6cbf8c564d7478a8044220
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:19:12 2026 +0530
+
+    fix: make sidebar footer scrollable so SMS config is always accessible
+
+commit 95f1cf454f1f958893e0a0b854f75785acec419e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:26:07 2026 +0530
+
+    fix: handle empty CONTENT_LENGTH in transport inbound handler
+
+    WSGI servers can set CONTENT_LENGTH to an empty string instead of '0',
+    causing int() to raise ValueError and crash the inbound handler with a
+    500 instead of processing the message. Use `int(... or 0)` to safely
+    coerce empty/missing values to 0.
+
+commit dc3e83f9ba70c5b90366a0808af1e698a28f5ee5
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:27:15 2026 +0530
+
+    fix: rebuild announce datagram each interval to avoid stale identity data
+
+    Previously the datagram was built once before the loop, so any runtime
+    changes to identity (e.g. username update) would never be reflected in
+    subsequent announces until a full restart. Moving _build_datagram()
+    inside the loop ensures peers always receive fresh identity info.
+
+commit 4c41c6c399ec940fabd04b8a72b85446eaeada58
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:28:29 2026 +0530
+
+    fix: raise distinct error when passphrase missing on send; join threads on stop
+
+    - send() now raises RuntimeError instead of silently returning False
+      when no passphrase is set, so callers (web.py) can surface a clear
+      'unlock required' message to the user instead of a generic failure.
+    - stop() now joins both discovery threads after setting the stop event
+      so sockets are guaranteed to close cleanly before the process exits.
+
+commit a84db16dbd542ea7b2eb39adf3e3a216698c572e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:29:25 2026 +0530
+
+    fix: join discovery threads on stop; add /health endpoint to transport
+
+    - Discovery.stop() now joins both announce and listen threads (timeout=2s)
+      so sockets are guaranteed closed before the process exits.
+    - Transport._wsgi_app now handles GET /health, returning 200 {\"ok\":true}.
+      Useful for checking whether the transport server is actually up without
+      sending a real message.
+
+commit 4871fc84179d8dd1bbe9bf8d8037f3381d23ed3f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:36:29 2026 +0530
+
+    feat: E2E encryption via X25519 ECDH + AES-256-GCM
+
+    Replace passphrase-symmetric encryption on the wire with proper
+    end-to-end encryption. Sender does X25519 ECDH with recipient's
+    public key; recipient does the same with sender's public key —
+    both sides derive the identical shared secret and can decrypt.
+
+    - core/crypto/e2e.py: new E2EManager (ECDH → HKDF-SHA256 → AES-256-GCM)
+    - core/crypto/__init__.py: export E2EManager
+    - core/network/router.py: send() encrypts with peer x25519_pub,
+      _on_inbound() includes sender_pub in stored envelope so the UI
+      can decrypt using the local x25519 private key
+
+commit 636b5f2549f0f838f902119c2ccd2a43bd90f78f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:38:27 2026 +0530
+
+    fix: use E2EManager for decrypt/encrypt when identity is unlocked
+
+    - decrypt_message: detect E2E tokens via E2EManager.is_e2e_token();
+      use E2EManager(identity.x25519_priv) for those, fall back to
+      CryptoManager for legacy passphrase tokens.
+    - encrypt_message: prefer E2EManager when a peer's x25519 pub key is
+      available in PeerStore; fall back to CryptoManager otherwise (local
+      storage / SMS / legacy flow).
+    - Both functions remain callable without a running node so web.py's
+      /api/crypto/decrypt and /api/crypto/encrypt routes keep working.
+
+commit f58f553a89b16289163600ab31d46bd9e5ae6bee
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:45:10 2026 +0530
+
+    fix: sender can now re-read their own E2E messages
+
+    decrypt() was always doing local_priv × sender_pub. When the local
+    node IS the sender, sender_pub == local_pub, giving a wrong shared
+    secret and an AES-GCM auth failure.
+
+    Fix: detect the self-send case (sender_pub bytes == local pub bytes)
+    and, when true, fall back to local_priv × peer_pub_b64 (the recipient
+    pub key, supplied by the caller). decrypt() gains an optional
+    peer_x25519_pub_b64 kwarg; passing it is only required when the caller
+    might be the original sender re-reading the message.
+
+commit 0821c461e65c6894d7343a5bc87957971d405655
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:46:01 2026 +0530
+
+    fix: pass peer pub key to E2EManager.decrypt() for self-send re-read
+
+    decrypt_message now looks up the peer's x25519_pub from PeerStore and
+    passes it to E2EManager.decrypt() as peer_x25519_pub_b64, enabling the
+    sender to re-read their own outgoing messages.
+
+commit 2f93543ad1f06f417086d753b2ce313af557205e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 18:50:33 2026 +0530
+
+    fix: pass chat_id to decrypt endpoint for context-authenticated decryption
+
+commit ac30fc6cb59c8b29e5f180b8df4df8c4dc8f5450
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 20:27:24 2026 +0530
+
+    fix: crypto_decrypt returns 200 with null plaintext on failure instead of 500
+
+    Decrypt failures (e.g. E2E token when peer key is unavailable) now return
+    {"plaintext": null, "error": "..."} with HTTP 200. The JS `dec.plaintext !== undefined`
+    check stays correct — null fails the check so the raw token shows with the [enc]
+    badge. Eliminates recurring 500 spam in the poll cycle logs.
+
+commit 8baa980450ac71998abb6e7ab6c2bf3a4f3276f2
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 20:40:22 2026 +0530
+
+    fix: mark peers stale after 3 missed discovery heartbeats
+
+    /api/peers now stamps each peer with online:True/False by comparing
+    last_seen against ANNOUNCE_INTERVAL * 3 (90 s — three missed heartbeats).
+    Previously all() returned every stored peer with no staleness check, so
+    peers that had gone offline were permanently shown as online in the UI.
+
+commit ae1aba127613e17b4d8f8b406b4734ab038f6077
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 23:14:24 2026 +0530
+
+    feat: WebSocket real-time mode with polling fallback + login toggle
+
+    - flask-sock /ws endpoint pushes init snapshot, new_message, peer_update
+    - _patch_node_callbacks() wires Node._on_inbound + _on_peer_found to WS broker
+    - Connection mode toggle (⚡ real-time / ↺ polling) on unlock modal
+    - WS client auto-reconnects with 3 s back-off; 20 s ping keepalive
+    - 30 s background poll for identity/chats/peers as belt-and-suspenders
+    - Classic 5 s polling preserved 1:1 when polling mode selected
+
+commit f406fd86c0227547b240d76fad3ecff89ec5f8a2
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 23:24:46 2026 +0530
+
+    feat: WebSocket real-time mode with polling fallback + login toggle
+
+    - flask-sock /ws endpoint pushes init, new_message, peer_update events
+    - _patch_node_callbacks() wires Node._on_inbound + _on_peer_found to WS broker
+    - Connection mode toggle (⚡ real-time / ↺ polling) on unlock modal
+    - WS client auto-reconnects with 3 s back-off; 20 s ping keepalive
+    - 30 s background poll for identity/chats/peers as belt-and-suspenders
+    - Classic 5 s polling preserved 1:1 when polling mode selected
+
+commit 4f38ede65fb856d591e63d5947b016709be9f5c6
+Merge: 8baa980 f406fd8
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 23:28:09 2026 +0530
+
+    Merge pull request #11 from Project-Enclave/feat/websocket
+
+    feat: WebSocket real-time mode with polling fallback
+
+commit 9961e2a08110bb122640a89055c6322332d001b6
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat May 9 23:33:02 2026 +0530
+
+    fix: remove non-existent Node.set_passphrase call in start_node()
+
+    Passphrase is already consumed by identity.load_identity() above;
+    set_passphrase() was never defined on Node and caused a 500 on first login.
+
+commit 2b9a8ce6e3a9f20d15624c33aa0a09d850ccc7c7
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun May 10 00:03:38 2026 +0530
+
+    feat: WebSocket real-time push + fix rotate(180deg) button bug
+
+    - flask-sock /ws pushes init, new_message, peer_update events
+    - _patch_node_callbacks() wires Node._on_inbound + _on_peer_found to WS broker
+    - Connection mode toggle (real-time / polling) on unlock modal
+    - WS client auto-reconnects (3 s back-off), 20 s ping keepalive
+    - 30 s background poll as belt-and-suspenders
+    - Classic 5 s polling preserved as fallback
+    - Fix topbar refresh button stuck at rotate(180deg) on hover/tap
+
+commit 86e6e1e8e9420b3d2bf148750b213b258e3d666c
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun May 10 00:07:26 2026 +0530
+
+    fix: deduplicate WS code (ws_handler defined twice caused crash on startup)
+
+    Rebuild from clean pre-WS base. Single ws_handler, single _ws_broadcast,
+    single _sock.route. Also includes rotate(180deg) button fix.
+
+commit ffe0e586e076edff9329168ba9230b6817b2535c
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun May 10 00:11:28 2026 +0530
+
+    fix: always refreshMessages() on new_message WS event if a chat is open
+
+    Previous chat_id comparison could silently fail (encoding mismatch),
+    causing messages to arrive without auto-refresh.
+
+commit c9d1db901194d5a5b1ef12d3b48f7bb288622343
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sun Jun 7 23:40:58 2026 +0530
+
+    wah
+    :wq
+    :wq
+    :wq
+    :wq
+    wait
+
+commit f1f444df81d81b24146b500fce72d8a5a0bf0ec8
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 9 19:14:16 2026 +0530
+
+    update?
+
+commit 252e81bec3d754c9aebf58014b1766455588c0dd
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 10 15:26:33 2026 +0530
+
+    im waiting for my teacher...
+
+commit bd674cfea4e1b2bd46213e9e2d5f493e7a1ef8e2
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 12 16:24:08 2026 +0530
+
+    how did the setup file vanish??
+
+commit b5a42f5fd49bbb7cb13f504b3e6a126292ecca10
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 12 16:26:07 2026 +0530
+
+    complete it for gods sake/|\
+
+commit 5dd560ac95a3bae0fe5108e51ce286446d0b3816
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 12 17:43:05 2026 +0530
+
+    just in case i mess it up
+
+commit 33c1b292a46463d2b9092e05620c3e4cace34fb0
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 12 18:31:36 2026 +0530
+
+    improved setup.py
+
+commit e8c07861f7dc01f4777b524c9124e9e56ed7423f
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 12 20:24:29 2026 +0530
+
+    hehe
+
+commit f89bf170d66dab56cc5b95684d4accd267ab33af
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 13 08:12:14 2026 +0530
+
+    keep flutter aside for now
+
+commit d08dae88ace2598606aa3370f02fb779006bf0ba
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 13 08:18:14 2026 +0530
+
+    info: add py ver for pip?
+
+commit e69c3db6e4df24d7f1e5fdb69246ffbd8ad28aa2
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 13 11:04:27 2026 +0530
+
+    Delete .devcontainer/devcontainer.json
+
+commit 8bdce14885dae60111c93905dfa9fee49013dd50
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 13 11:11:53 2026 +0530
+
+    pi pi
+
+commit 33f34025cb5e0656576849ff6ed308c10cd27899
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 13 11:33:28 2026 +0530
+
+    ready, set, go
+
+commit 3e756efd7ac6dcba23a55bb41212339ba5a67896
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 17:17:29 2026 +0530
+
+    fix: restore main.py; add flask-sock to requirements
+
+commit 6c804640323e11669d2cf294ecc5cff46a78b3a3
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 18:01:16 2026 +0530
+
+    templateta
+
+commit ed5ef6af2832072e47d5253346517404cf77bbc2
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 19:45:03 2026 +0530
+
+    refactor: move LAN scanner out of web.py into core/network/scanner.py
+
+commit 4235e5fa81792163bb54ff3627d525c8fd10e6d0
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 19:45:58 2026 +0530
+
+    refactor: remove inline LAN scanner from web.py, import from core.network.scanner
+
+commit 26dfa9600d7b78d1567e7bb5295a84db64ef7b6e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 19:52:08 2026 +0530
+
+    refactor: replace _patch_node_callbacks() with proper callback lists on Node
+
+commit e1d45dde39dcd3b3bf5f2c27ef9420bbf9a3e22e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 19:55:36 2026 +0530
+
+    refactor: replace interactive input() entrypoint with --host CLI arg and ENCLAVE_HOST env var
+
+commit c60d1c1a648fcb720209408e7bba093627998904
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 20:02:35 2026 +0530
+
+    fix: prevent passphrase bypass after node is already running
+
+    - main.py: start_node() now raises RuntimeError if called again after
+      the node is running, instead of silently returning the live node
+    - web.py: node_start route checks get_node() first; already-running
+      requests return 200 with already_running:true without touching
+      identity or calling start_node() at all
+
+commit de458ad27316a17c878d2e47f65bd7dfcd653439
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 20:10:13 2026 +0530
+
+    fix: block passphrase bypass when node already running; fix duplicate callbacks
+
+    - web.py node_start: return 409 if node is already running instead of
+      silently calling start_node() with an unvalidated passphrase
+    - web.py _register_node_callbacks: guard with _callbacks_registered flag
+      so callbacks are only appended once, preventing duplicate WS events
+
+commit e302032af643a6b05c6bf851aa0c5d9bbd051bbc
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 20:15:07 2026 +0530
+
+    fix: verify passphrase when node already running instead of blanket 409
+
+    Replaces the overly broad 409 rejection with a passphrase verification
+    step using identity.load_identity(). Correct passphrase gets access as
+    normal (refresh/cross-device support); wrong passphrase gets 403.
+
+commit 4a0aaa47ccae59fddb4de0641544799a48c5761e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 21:36:48 2026 +0530
+
+    feat: plugin system — base, security, manager, builtin SMS gateway
+
+    - core/plugins/base.py: EnclavePlugin base class, PluginCore scoped context, ReadOnlyIdentity proxy
+    - core/plugins/security.py: scope enforcement, runtime watchdog, auto-disable, violation log, user override
+    - core/plugins/manager.py: discovery (builtin + user), lifecycle, storage
+    - core/plugins/builtin/sms_gateway/manifest.json + main.py: SMS gateway as first builtin plugin
+    - core/plugins/__init__.py: updated exports
+    - core/plugins/sms_gateway.py: kept for backwards compat
+    - core/storage/config_store.py: added plugins section to DEFAULTS
+    - main.py: plugin_manager singleton, auto-enable on startup
+
+commit 3a21c323be2f08037b6ce5db1cd69529f3cdc19b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 16 22:15:27 2026 +0530
+
+    Update README.md
+
+commit e78b6dca0b155803d7ca8aaacc371fdc4a17e105
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 16:38:59 2026 +0530
+
+    feat: replace settings accordion with settings modal
+
+    - Remove inline settings accordion from sidebar footer
+    - Add full-screen settings modal (#settings-backdrop) with:
+      - Node section: passphrase input + "unlock & start node" button + status line
+      - SMS gateway section: username, password, device host inputs + "save sms config" button
+    - Add .settings-modal-card CSS (wider, max-height scrollable)
+    - Add .smodal-* CSS classes for modal internals
+    - Sidebar "settings & config" is now a .settings-open-btn that opens the modal
+    - openSettingsModal() / closeSettingsModal() JS; backdrop-click to dismiss
+    - All startNode() and saveConfig() logic unchanged, just retargeted to modal IDs
+
+commit 12a559b57a2d8755b44a1f063db0cf3f2ac3146c
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 17:16:51 2026 +0530
+
+    refactor: Claude-style settings modal with left tab sidebar + plugin tab API
+
+commit f336333db4074683e7abcdb16c699dcbe0ee79f4
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 17:28:23 2026 +0530
+
+    feat: smart single-input new chat, bluetooth plugin, no emojis
+
+commit 79ee7e7a363c65dd34c5081196f75f561aeda798
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:00:17 2026 +0530
+
+    fix: restore splash + correct JS for smart input & bluetooth plugin
+
+commit 8a25497e558eaa41839adca2ac8ec15d293d5a37
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:03:01 2026 +0530
+
+    feat: add bluetooth plugin (core/plugins/bluetooth.py)
+
+commit 0369efc6678f0b8b9adc6edaa088881c77fd2641
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:10:20 2026 +0530
+
+    feat: wire BluetoothPlugin into main.py (send_bt, start_bt_listener, cmd_bt)
+
+commit 90df903555494639516570b25c9fe9b4dadc8b49
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:12:50 2026 +0530
+
+    feat: add /api/bt/scan route to web.py
+
+commit 87b21279c54397fde7c6a9310c43706ef0893a41
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:19:42 2026 +0530
+
+    fix: replace Web Bluetooth API with /api/bt/scan in Bluetooth plugin panel
+
+commit 132da4c9d5c26cabef66b9e9632538caa8db2dcf
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:44:02 2026 +0530
+
+    feat: add OS-aware Bluetooth setup step to set.py
+
+commit efc1913b3ab289534a86010d9ce7ef844a71de7b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:46:21 2026 +0530
+
+    fix: use bluetoothctl fallback in scan(), remove pybluez from requirements
+
+commit 858321d035a9789ab2b2eeb179256a2499d34376
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:47:59 2026 +0530
+
+    fix: remove step_bluetooth from set.py (bluetoothctl fallback needs no packages)
+
+commit 9bf77c651d4a5a100ad4b189538b74109f093aa1
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:52:45 2026 +0530
+
+    refactor: move bluetooth.py into core/plugins/builtin/bluetooth/
+
+commit 9c4d2041b3bc33d18999d57067722b7cca2f3c84
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:53:43 2026 +0530
+
+    fix: update web.py import to new bluetooth plugin path
+
+commit 3070b4bf2d741554ef7999d037a13549d30162a2
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 18:53:57 2026 +0530
+
+    chore: remove old core/plugins/bluetooth.py (moved to builtin/bluetooth/main.py)
+
+commit df94514e8b781aa88717e7cc083ccba5799af450
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 19:16:54 2026 +0530
+
+    Add update.py, public.pem placeholder, manifest files
+
+commit 0d8dd901b8879f2b9fac7cb9248d80159b4288c7
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 19:20:06 2026 +0530
+
+    keys
+
+commit f2b548312973b0725dc1dd29f9ccf303855137f8
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 19:23:40 2026 +0530
+
+    keyssd
+
+commit d92d1ab499ac89b9aa6f4cf992ef0095e424a358
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 21:40:48 2026 +0530
+
+    remve e
+
+commit 9b7a8099ef77c73d933504d808d180f5cbb729a5
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 17 21:57:51 2026 +0530
+
+    crypto: implement ephemeral keys for forward secrecy in E2EManager
+
+commit c7adf66834eef0e8c7b663529f453ea04ddd156f
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Jun 18 00:16:17 2026 +0530
+
+    fix bluetooth
+
+commit 5b08caf651d6a5ba972efb3c41a124b2834213dd
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Jun 18 16:30:44 2026 +0530
+
+    i broke
+
+commit 69332fe9a1d51f1e749d519ef151af7af3cd7710
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Jun 18 16:31:47 2026 +0530
+
+    i broke
+
+commit 4e81db6a8e8578e8797b975a090d306e3abc1ff1
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Jun 18 17:29:23 2026 +0530
+
+    fix: correct import paths and update decrypt_message for ephemeral e2e
+
+commit 71d8e9ef92940f2b1804855484bc794c9f0482d3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 19 15:30:06 2026 +0530
+
+    Update README.md
+
+commit caf27f1d3905694d83d19ea9d6304ecdbc14bac7
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 19 16:56:01 2026 +0530
+
+    docs: add one-liner install via setup repo
+
+commit e553a94c1c8d3c704b29bc9e9f5c4f425eff3aef
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 19 17:05:09 2026 +0530
+
+    fix: use curl | bash for fish shell compatibility
+
+commit c8936c5608303cac59c3352742740a44556f5fef
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 19 17:18:01 2026 +0530
+
+    fixed pip loop
+
+commit 83fab02da1c1e9ed8159ca7e08f0b80b9285f98a
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Jun 19 17:23:39 2026 +0530
+
+    fix: update install one-liner to use curl -o then bash
+
+commit a569d6fd81cbcdbea40fdd02697264b6453426de
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 20 15:18:28 2026 +0530
+
+    Add pytest unit tests for auth, bluetooth utils, and SMS gateway
+
+commit 87810e66ce07696259b93b368aecbd897885a6bd
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Jun 20 15:21:20 2026 +0530
+
+    Add tests for identity, storage, and plugin manager
+
+commit 8f7a1705d19aabe265cae7da69d5c375dced8abc
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:11:54 2026 +0530
+
+    feat: add ProfileManager for multi-instance support
+
+commit 269143de595ad92851e771951b620bbc1a7fc09f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:13:15 2026 +0530
+
+    feat: add profile API routes to web.py
+
+commit c6b5cde7a8172193fd1c00a22abf28ff50c724eb
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:18:12 2026 +0530
+
+    File signing and fixing set.py
+
+commit 2262f9c195e1f8d59e6749daef54fda43a14a858
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:19:11 2026 +0530
+
+    File signing and fixing set.py
+
+commit df91e9f0d0de2364d2a8ac13ac66b8a30adc448f
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:21:17 2026 +0530
+
+    File signing and fixing set.py again
+
+commit 8de684988c683932124318be973dec392f14e9be
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:26:57 2026 +0530
+
+    fix: bluetooth Plugin class + profile-aware store init in main.py
+
+commit 98b818d1a29039ff801c2a277dec4f030796f0cb
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:39:58 2026 +0530
+
+    File signing
+
+commit b832ae876b2f16a567962a8329a92fc268a710bb
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:44:16 2026 +0530
+
+    fix: remove port kwarg from Node() call — Node reads port from config_store internally
+
+commit 7d007e33355c4103997fd0eae4033be84683dc1b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 20:50:11 2026 +0530
+
+    feat: support multiple instances via --port / --profile flags and per-profile transport ports
+
+commit 419a0b8081a4d776593a145454949358640649cf
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 21:40:03 2026 +0530
+
+    feat(ui): add instances rail — left tab to view/switch instances + online status
+
+commit d4cba1a3eaf1e0deab87127daeb2c23e0bb1371e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 21:46:42 2026 +0530
+
+    remove emoji characters (warning triangle, bullet dots, checkmark)
+
+commit bb167ed37684ba07c99cd49a12e7dfa7dbf37212
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 21:52:50 2026 +0530
+
+    fix: restore truncated JS — merge instances rail + full script block
+
+commit 83d5b9e3b3ed194d2f04e00331b56a573a66cb19
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 22:10:09 2026 +0530
+
+    fix: restore full chat.html JS from 87b2127 (splash fix)
+
+commit 3b2e0f2d1133403440cf174f60f00a59f6ac2465
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Jun 23 23:03:44 2026 +0530
+
+    feat: add Profile tab to settings modal
+
+commit dc19f3652f6713f76b71ef7eae7547e86a4fc714
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 16:21:06 2026 +0530
+
+    fix: splash screen never called + sidebar animation race condition
+
+commit 2b8763adc709ecf2fb2e64deec05f33141e8af22
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:30:28 2026 +0530
+
+    File signing n remove tests
+
+commit 637ccc25c30d2e8af7bb7a627191aba0764f1255
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:34:10 2026 +0530
+
+    File signing n add set.py
+
+commit bc7249d870eb9f8614278af802e052121820be67
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:34:47 2026 +0530
+
+    File signing n add set.py
+
+commit 1e597d25a0587823e89d04711a66f547e3ffc0ea
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:43:10 2026 +0530
+
+    Delete .github/workflows/codeql.yml
+
+commit 82cf1c3d727c26615f5e0c3610c7624add682092
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:48:16 2026 +0530
+
+    Create bandit.yml
+
+commit 1572afe03bd04e9c685e1f82c54ba2ce78e8a18e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:48:58 2026 +0530
+
+    Create codeql.yml
+
+commit 61a6f42b7213874d180d6854e69e6af4788fe26f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:49:52 2026 +0530
+
+    Create black-duck-security-scan-ci.yml
+
+commit 92e0d303d6c06ade1239c405e728acc280514051
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:51:12 2026 +0530
+
+    Create ossar.yml
+
+commit 389974493cb43286bdf17f4f77a49e3f2155b1b1
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:51:31 2026 +0530
+
+    Create osv-scanner.yml
+
+commit ff6240d43b16bc2107e214e44b3bfe1422f47aed
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:52:08 2026 +0530
+
+    Create pysa.yml
+
+commit c030adbde904b0697e7f7bf8b94a41b645212e8e
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 19:56:39 2026 +0530
+
+    remove checks
+
+commit 58eb8bb0dc326fab59ef8a373f268f632ef256a8
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:02:31 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 23fa0cb0d7ac9479e63f0f8c1e892c1bb868622e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:02:32 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 1a12c3fe5ab872e3f568f35fbacba34288fe7c9e
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:02:32 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 54e4beb81be76b490337e017c306dcf95f05db47
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:02:33 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit e5cee438e401532d71cb424cb3fa8d6a0a08b2f3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:03:52 2026 +0530
+
+    Potential fix for pull request finding 'CodeQL / Clear-text logging of sensitive information'
+
+    Co-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com>
+
+commit 6de2cc9a92c8b1a46b6efbf6f2454e309e3f1112
+Merge: c030adb e5cee43
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:12:30 2026 +0530
+
+    Merge pull request #13 from Project-Enclave/ai-findings-autofix/set.py
+
+    Potential fixes for 4 code quality findings
+
+commit fc838752531becdb5b41476fd2c7be05b39b5bb3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:16:01 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 40480d5dc546b22ac791d843f55ea6292281d5cd
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:16:01 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 792d09e3bc5568129eec8e432805fabd19f608cc
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:16:02 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 8c263d75ec744be7254d9d5232621ba51bcd0f73
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:16:02 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit 2e9f6c3c6d8f6a25fbb0db97a59ffcbc868cf7dd
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:16:03 2026 +0530
+
+    Apply suggested fix to set.py from Copilot Autofix
+
+    Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+
+commit a8fcd39804e9088548f8d531ba25430389a55474
+Merge: 6de2cc9 2e9f6c3
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:19:19 2026 +0530
+
+    Merge pull request #14 from Project-Enclave/ai-findings-autofix/set.py
+
+    Potential fixes for 5 code quality findings
+
+commit f05df3fa1f99506589ef49c2c97b3b5e9a9d5429
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:26:54 2026 +0530
+
+    fix: showUnlockModal transition — double rAF so opacity fade-in actually plays
+
+commit 0eaa7ad487742f1b0ebdcdada4bae358477d3d65
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:35:23 2026 +0530
+
+    ci: add dependency-review, transport tests, integration, lint, stale workflows
+
+commit f4da1474b877960f6069c70a1face30933180850
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 20:39:24 2026 +0530
+
+    feat: add --port and --ci flags to `run` subcommand
+
+commit 008777041ae12b71e4f8f8a6a6b3cc34e4cd725f
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jun 24 21:13:45 2026 +0530
+
+    Delete .github/workflows/lint.yml
+
+commit 37eac5ce450f65ad3f3ca989dc978d3133ca0020
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Wed Jul 1 17:51:11 2026 +0530
+
+    Update README.md
+
+commit bec98936e6b4ef203308b513d3059c9db2741ab0
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 19:57:05 2026 +0530
+
+    fix: splash screen freeze — replace double rAF with setTimeout in showUnlockModal
+
+    The double requestAnimationFrame used to trigger the modal's opacity
+    transition was unreliable when the tab was backgrounded or under load,
+    causing the browser to batch/skip the callbacks. The splash would fade
+    out (display:none) but the unlock modal would never appear, leaving a
+    blank screen.
+
+    Fix: replace the double rAF with a 20ms setTimeout, which forces a
+    reliable style recalculation tick before removing .hidden. Also align
+    the JS splash timeout (650ms) with the CSS splashFadeOut animation
+    duration (0.6s) — changed to 600ms to match.
+
+commit 0db1ac100d82384114b0a2f66147800211564ec6
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:11:13 2026 +0530
+
+    fix: add all missing client-side JS functions (loadChats, loadIdentity, sendMessage, etc.)
+
+commit fe4a523540e8155f7a1e998984e182c0fc65e03a
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:15:41 2026 +0530
+
+    fix: add /api/identity and /api/identity/regenerate route aliases
+
+commit 20ad0ccb99e740c03d6d0a7adefba1993071959b
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:32:03 2026 +0530
+
+    fix: verify_passphrase — use load_identity instead of non-existent derive_key methods
+
+commit 21ce07d2329b57f934ec2fc4a8495692c6323e7c
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:46:54 2026 +0530
+
+    fix: reset.py — nuke entire ~/.enclave-messenger, not just /identity subdir
+
+commit f250c62d7ea158a7d554e12dc249066f9e35f859
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:50:36 2026 +0530
+
+    fix: set.py step_identity — use main.identity so keys are saved to profile path
+
+commit 4585202a596ccd7beb964f1c884555d92d68ab33
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Jul 13 20:59:06 2026 +0530
+
+    fix: identity/update route, regenerate passphrase, config/save alias, node_id field, two-instance launch script
+
+    - Add POST /api/identity/update → saves username to config
+    - Fix /api/identity/regenerate to use session passphrase from running
+      identity if node is unlocked, not require it in the request body
+    - Add POST /api/config/save alias that maps frontend SMS fields to the
+      real /api/sms/config handler fields (sms_user/sms_pass/sms_host)
+    - Fix get_identity_status() to include node_id key (frontend reads
+      d.node_id, backend was returning d.user_id only)
+    - Add launch-two-instances.sh for Stardance dual-instance quickstart
+
+commit 950f2af6e9fa771122c298474a210ee240d84cc3
+Author: Claude Code Review <review@local>
+Date:   Wed Aug 12 19:45:59 2026 +0000
+
+    security: fix unauthenticated sender spoofing + LAN MITM in P2P transport
+
+    Critical fixes from code review:
+    - router.py: sign outbound envelopes with Ed25519 identity key, verify
+      signature against known peer's pinned key on inbound. Previously any
+      device on the LAN could POST to /inbound claiming from=<any known
+      user_id> and it would be accepted/stored with zero verification.
+    - discovery.py: pin ed25519_pub/x25519_pub per user_id on first sight
+      (TOFU). A later broadcast for the same user_id with different keys
+      (or a different source IP) is now rejected outright instead of
+      silently overwriting the trusted mapping — closes the active MITM
+      where an attacker rebroadcasts a victim's user_id with their own
+      x25519_pub to redirect future encrypted messages to themselves.
+    - router.py: Transport now defaults to binding 127.0.0.1, not 0.0.0.0.
+      Previously the P2P inbound server ignored web.py's --host flag
+      entirely, so 'localhost-only' installs were still reachable from
+      the whole LAN. Opt into LAN mode via ENCLAVE_NET_HOST=lan or the
+      network_bind config setting.
+    - transport.py: cap /inbound body at 256 KiB before reading into
+      memory (was unbounded — trivial DoS on low-RAM hardware).
+    - web.py: stop leaking full tracebacks in API error responses unless
+      debug=true is explicitly set; still logged server-side either way.
+    - key_manager.py: chmod 600 the identity PEM files on write.
+    - chat_store.py: persist the new 'verified' flag through
+      append_message/load_messages (previously any extra field was
+      silently dropped, which is also why the pre-existing 'verified'
+      badge in chat.html was permanently dead code).
+    - chat.html: escAttr() now escapes backslashes before quotes — a
+      peer username ending in a raw backslash (fully attacker-controlled
+      via unauthenticated UDP discovery) could otherwise break out of
+      the onclick='...' JS string context once the browser HTML-decodes
+      the attribute.
+
+    Adds test_security_fixes.py: end-to-end regression test spinning up
+    real Node/Transport/Discovery instances on loopback and exercising
+    the actual exploit paths from the review (forged signature, unsigned
+    spoof, oversized body, MITM key substitution). 9/9 passing.
+
+    Not addressed in this pass (flagged in review, follow-up needed):
+    - crypto_manager.py: scrypt re-derived per-message instead of once
+      per session — perf issue on low-RAM hardware, not a vuln.
+    - update.py: no returncode check on the openssl subprocess call, and
+      no path-traversal guard on manifest 'fname' entries. Low real-world
+      risk (requires the signing key to already be compromised) but cheap
+      to harden later.
+
+commit fcc279a0dce12ce3d29d3eb855cf50dc55cab6da
+Author: Claude Code Review <review@local>
+Date:   Wed Aug 12 19:54:43 2026 +0000
+
+    security: fix CSRF on local web API + unauthenticated WS handshake
+
+    You asked specifically about the web UI — this is what was still open
+    beyond the earlier traceback-leak and escAttr fixes:
+
+    - Every /api/* route parses the body with request.get_json(force=True),
+      which ignores the declared Content-Type entirely. A fetch() with
+      Content-Type: text/plain is a 'simple request' per the Fetch spec, so
+      browsers send it cross-origin with ZERO CORS preflight. Concretely:
+      any other tab/website open in the same browser could silently POST to
+      this API as the logged-in user. Confirmed exploitable in-sandbox
+      against /api/identity/update (silent username change) and
+      /api/identity/regenerate — the latter is worse than it sounds: with
+      the node already unlocked, calling it with an EMPTY body reuses the
+      'cached' passphrase path in identity_generate(), which immediately
+      calls generate_new_identity() (replacing the live in-memory keypair)
+      before it ever checks whether a passphrase is actually available to
+      re-save with. Confirmed in testing: this corrupts the live identity
+      even though the subsequent save then fails.
+        Fix: per-process CSRF token, injected into the page at render time
+      (same-origin only) and required as a custom header on every
+      POST/PUT/PATCH/DELETE under /api/. Custom headers force a real CORS
+      preflight, which this server correctly fails for cross-origin
+      requests (no Access-Control-Allow-Origin is ever sent), so the
+      browser blocks the real request from going out.
+
+    - The /ws WebSocket endpoint never checked Origin at all. WebSocket
+      handshakes are NOT covered by CORS, so any open tab could connect
+      directly and receive the 'init' frame (identity status, full peer
+      list, every chat id) plus live inbound-message/peer events, no
+      interaction needed beyond you having the app open. Fixed with an
+      Origin check on handshake; connections with no Origin header (non-
+      browser clients) are still allowed.
+
+    Both confirmed against the exact exploit before the fix and again
+    after, folded into test_security_fixes.py (14/14 passing total).
+
+commit 10f2f1a556e6f8f01bd6771e78165d23e276d622
+Author: Claude Code Review <review@local>
+Date:   Thu Aug 13 02:07:26 2026 +0000
+
+    responsive layout (mobile/tablet/desktop) + fix bogus plugin-discovery warning
+
+    Template (chat.html):
+    - Below 860px, layout switches from side-by-side (sidebar + chat-panel)
+      to single-pane: chat list OR open conversation, never both competing
+      for a phone-width screen. Driven by one body.chat-open class, toggled
+      from the existing openChat()/closeChat() functions -- no new state
+      machine, no duplicated logic between desktop and mobile.
+    - Added a back button in the chat topbar (mobile-only, closeChat()).
+    - Settings modal's two-pane shell (fixed 200px side-nav + content) is
+      unusable under ~480px; it now stacks into a horizontal scrollable tab
+      strip on narrow screens instead of squeezing to ~180px of content.
+    - Bumped touch targets (composer, send button, chat items, topbar
+      buttons) to a comfortable tap size below the 860px breakpoint.
+    - Fixed a real bug found while testing this: .sidebar's one-shot
+      entrance animation used the CSS property animation-fill-mode set to
+      "both", which -- per the CSS cascade spec -- permanently pins the
+      animation's final transform/opacity ABOVE even higher-specificity
+      normal declarations. It was silently winning over the new
+      body.chat-open .sidebar rule. Fixed by dropping the fill-mode instead
+      of reaching for !important: the animation only needs to run once at
+      load, not stay pinned.
+    - Desktop layout (>860px) is pixel-identical to before -- verified via
+      a real headless-browser screenshot, not just "should be".
+
+    Verified with a real headless Chromium (Playwright), not just
+    structural checks: screenshotted mobile/tablet/desktop, and drove an
+    actual click-through (open chat -> confirm sidebar hidden via computed
+    styles -> back button -> confirm sidebar restored) rather than trusting
+    the CSS would behave as written.
+
+    Plugin manager (core/plugins/manager.py):
+    - _scan_dir() treated every subdirectory under core/plugins/builtin/
+      as a plugin candidate, including __pycache__ -- which gets created
+      the moment anything in that tree is imported by anything (another
+      plugin loading, pytest, etc.) -- producing a "manifest error: No such
+      file" warning on every single startup. Same problem would hit any
+      hidden dir (.git, .vscode, ...). Now skips dot- and dunder-prefixed
+      directory names before they're ever treated as a candidate.
+    - Reproduced the exact failure (imported the real plugin modules to
+      force __pycache__ into existence, same as what happens organically),
+      confirmed the warning is gone, and confirmed both real builtin
+      plugins (bluetooth, sms_gateway) still discover correctly.
+
+    test_security_fixes.py: +2 tests for the plugin-discovery fix (18
+    total in the suite now -- file kept its name since it's the one
+    running regression harness for this repo so far; happy to split it
+    if it keeps growing).
+
+commit ddd00e49a002e228f3e66e4a91143ab89876fe04
+Author: Claude Code Review <review@local>
+Date:   Thu Aug 13 11:27:04 2026 +0000
+
+    fix: message pipeline was broken end-to-end (self-echo, route, decrypt)
+
+    Found while building the TUI, which needs a genuinely working send/
+    receive/read path to be worth building on. Three independent bugs
+    stacked on top of each other:
+
+    1. router.py Node.send() never wrote anything to the sender's own
+       chat_store. It encrypted, signed, and transmitted the envelope, then
+       returned -- your own sent messages simply never appeared in your own
+       chat history, only the recipient's.
+
+    2. web.py had no /api/messages/<chat_id> route at all. The frontend's
+       refreshMessages() has always called that exact URL -- every "open a
+       chat" click has been hitting a 404. The route that DID exist,
+       /api/chats/<chat_id>, returns a different unused shape and nothing
+       in the frontend ever called it.
+
+    3. Nothing in the frontend ever called /api/crypto/decrypt either, so
+       even with a matching URL, messages would have rendered as raw
+       ciphertext tokens, not text.
+
+    Net effect: opening a chat and reading messages has not worked, ever,
+    through the web UI.
+
+    Fixes:
+    - Added /api/messages/<chat_id>, matching what the frontend actually
+      calls, decrypting each stored token via the same app_core.decrypt_message()
+      used elsewhere, and returning the {text, sender, author, timestamp,
+      verified, encrypted} shape renderMessages() in chat.html expects.
+      Also resolves sender -> peer's stored username for the author label
+      instead of dumping a raw base64 user_id into the UI.
+    - Node.send() now records the sender's own copy. This could NOT just
+      reuse the same ciphertext token: e2e.py's ephemeral-static ECDH means
+      the sender's ephemeral private key is discarded right after encrypt()
+      returns (that's what gives forward secrecy), so not even the sender
+      can decrypt their own ciphertext afterward -- nobody can but the
+      recipient, by design. Confirmed this the hard way: first attempt
+      stored the ciphertext token and decryption failed for the sender in
+      testing. Real fix stores the plaintext directly for the sender's own
+      local echo (same trade-off every E2E messenger makes -- E2E secrecy
+      covers the network leg; your own copy of what you sent is protected
+      by normal file permissions, not a second encryption layer), tagged
+      with a 'plaintext: true' marker so the read path knows to skip
+      decryption for that record specifically.
+    - chat_store.py: persist the new 'plaintext' flag through
+      append_message/load_messages -- same class of bug as the 'verified'
+      flag earlier in this session, where an unlisted dict key just
+      silently vanished on write.
+
+    Verified end-to-end with two real Node instances on loopback: Alice
+    sends to Bob, confirmed Alice's own history now contains the message,
+    confirmed the actual /api/messages route returns correctly decrypted
+    plaintext for BOTH sender and recipient (not just "should work" --
+    the first version of this fix genuinely failed this exact test, see
+    above). 6 new tests, 22/22 passing in test_security_fixes.py total.
+
+commit 68c65ffbce574928db8218b15cbdacd6a431ce72
+Author: Claude Code Review <review@local>
+Date:   Fri Aug 14 01:49:28 2026 +0000
+
+    fix: /api/chats/new was entirely missing + a real mistake I introduced and caught
+
+    /api/chats/new did not exist anywhere in web.py. Both the "+ new chat"
+    modal AND clicking any peer in the peers list call startChatWith(),
+    which POSTs to this exact URL -- so starting a conversation with
+    anyone, even an already-discovered LAN peer, has been a guaranteed 404.
+    Only chats that already had prior history could ever be opened.
+
+    Added the route. It classifies the input server-side (node id / phone /
+    bluetooth MAC / IP:port) and returns a normalized chat_id -- no
+    server-side "create" step needed, ChatStore already creates storage
+    lazily on first append_message. IP:port is deliberately rejected with
+    an honest 400 rather than faked as working: there is no peer-handshake
+    protocol anywhere in this codebase for "here's my IP, exchange keys
+    with me" -- peers are only known via LAN discovery broadcast or by
+    already being in the peer list. Pretending a manual address "connects"
+    while quietly doing nothing would be worse than saying it isn't
+    implemented.
+
+    Also refactored the decrypt+author-resolution logic that was inline in
+    the /api/messages route into main.py as get_messages_decrypted() --
+    tui.py (next commit) needs the exact same logic and a second copy of it
+    was a second place for that bug class to hide.
+
+    I made a real mistake building this and I'm not going to bury it in the
+    diff: I first "fixed" onSmartInput()'s isNode/isPhone/isIP/isBT by
+    adding new function declarations, having grepped only for the string
+    "function isNode" and concluded they didn't exist. They did -- as
+    `const isNode = ...` near the top of the script, which my narrow grep
+    missed entirely. My duplicate declarations threw a SyntaxError that
+    killed the ENTIRE <script> block silently -- not just the new-chat
+    modal, everything: the mobile nav, the CSRF token wiring, all of it,
+    with no visible error short of opening devtools. Caught it because the
+    splash screen (driven by that same script) never dismissed in the
+    Playwright test, which was suspicious enough to check `node --check`
+    against the extracted script directly instead of assuming the DOM
+    result meant the JS was fine.
+
+    Fixed by removing my duplicate declarations entirely and fixing the one
+    real bug hiding under the original isNode: it required an 'enc_'
+    prefix that nothing in this codebase's actual ID generation
+    (key_manager.py's get_user_id()) has ever produced -- confirmed by
+    every real id in every test in this session, none of them prefixed.
+    That's why the live type badge never recognized a real node id; the
+    POST itself still worked regardless since submitNewChat() never
+    depended on the classifier, only the badge/hint did.
+
+    Added a permanent regression test: extracts the <script> block and
+    runs `node --check` on it as part of the suite (28/28 passing now, +6
+    for /api/chats/new, +1 for this). This class of failure -- a script
+    tag that silently fails to parse -- won't get caught by anything else
+    in this test file, since Python-side checks can't see inside a
+    template's inline JS at all.
+
+commit 1bf8150e6210cd2d110dda61107aa0719313d6ed
+Author: Claude Code Review <review@local>
+Date:   Sat Aug 15 19:56:06 2026 +0000
+
+    fix: two real bugs blocking "multiple profiles, same device" discovery
+
+    You asked me to verify the existing multi-profile support actually
+    works for running simultaneously on one device. It mostly did -- ports
+    are correctly auto-allocated per profile (core/profiles.py), no
+    collisions, both processes run fine side by side. But LAN discovery
+    BETWEEN two profiles on the same machine did not work, for two
+    independent, stacked reasons. Found both by testing actual concurrent
+    processes rather than trusting that "the code looks right":
+
+    1. discovery.py used UDP broadcast (255.255.255.255) with the listen
+       socket bound via SO_REUSEPORT, intending to let multiple local
+       profiles each receive announcements. On Linux, SO_REUSEPORT
+       load-balances incoming datagrams across every socket sharing a port
+       -- the kernel picks exactly ONE of them per packet, it does not
+       deliver a copy to each. Confirmed this directly: two local Discovery
+       instances, isolated from all other app code, showed "exactly one
+       side sees the other" in 3 out of 3 trials, never both, never
+       neither. Fixed by switching to UDP multicast (239.255.42.99), which
+       verifiably fans a single sent packet out to every joined socket on
+       the host -- checked that property with a standalone raw-socket test
+       before touching any app code. Also added a second early announce
+       ~2s after the first (still well before the steady-state 30s
+       interval) to close a real, if minor, cold-start race: a node's
+       first announce can be sent before a peer's own multicast group-join
+       (IP_ADD_MEMBERSHIP) has completed, and multicast doesn't buffer
+       packets for late joiners.
+
+    2. core/network/router.py, discovery.py, and transport.py all call
+       logging.getLogger("network") -- a logger nothing in the codebase
+       ever attached a handler to. It was invisible except for WARNING+
+       messages escaping through Python's logging.lastResort fallback to
+       stderr, which is exactly why discovery's warning-level messages
+       were visible in earlier ad-hoc checks while its info-level ones
+       (including "saw peer" -- the literal evidence of successful
+       discovery) never appeared anywhere. This was a pure observability
+       bug, not a functional one: peer_store was already being correctly
+       populated in every case I checked this against, which is exactly
+       the kind of gap you only catch by checking ground truth instead of
+       trusting a log line as a proxy for it.
+         Fixed get_logger() to also route unconfigured loggers (like
+       "network") to root, so they land in the same per-profile file. First
+       attempt used a "configure root once" flag and still failed for any
+       profile other than the default one: main.py unconditionally
+       initializes a LogStore for the default profile at import time,
+       before cmd_run's own _init_stores(args.profile) call for whichever
+       profile was actually requested on the command line -- so a one-shot
+       flag left root permanently pointed at the default profile's file.
+       Fixed by having root's handlers get REPLACED by the most recently
+       constructed logger instead of set once, so the real active profile
+       (always the last _init_stores() call before the app actually starts
+       running) wins.
+
+    Added test_multi_profile.py: spins up two REAL `main.py run`
+    subprocesses under a shared sandboxed HOME (not mocks, not in-process
+    shortcuts -- that's the literal scenario being verified), and checks
+    both the ground truth (actual on-disk peer_store contents) and the
+    logging fix. 7/7 passing, confirmed clean across 6 consecutive runs
+    before committing, given multicast timing has some inherent run-to-run
+    variance.
+
+    Full existing suites unaffected: test_security_fixes.py 28/28,
+    test_tui.py 44/44.
+
+commit 30881488dd5b5b0db82404874531b6b958aeb424
+Author: Claude Code Review <review@local>
+Date:   Fri Aug 14 01:56:37 2026 +0000
+
+    add tui.py — Vim-modal terminal UI
+
+    Reuses main.py's coordinator API directly, same pattern as web.py: no
+    HTTP, no separate process, same profile model (one active profile per
+    process — see the profiles work in the next commit).
+
+    Vim-style modal interface given the editor already in use day to day:
+    NORMAL mode for navigation (j/k, Tab to switch focus between the chat
+    list and the message pane, Enter to open/select), INSERT mode to
+    compose (i to enter, Esc to cancel, Enter to send), and a : command
+    line (:q, :refresh, :peers, :chats, :new <address>). Curses only, no
+    extra dependencies beyond the stdlib — deliberately, given the 4GB RAM
+    constraint on the laptop this needs to actually run on. Colors degrade
+    gracefully on terminals without color support.
+
+    :new <address> and the classification behind it call
+    main.classify_address() -- pulled out of web.py's /api/chats/new route
+    into main.py itself in this same commit, specifically so the TUI isn't
+    carrying Flask as a dependency just to reuse three regexes. Same idea
+    as the earlier get_messages_decrypted() refactor: one shared place for
+    logic both interfaces need, instead of a second copy for the same bug
+    class to hide in later.
+
+    Testing (72 checks total across two files, all passing):
+
+    - test_security_fixes.py: 28/28, unaffected by the classify_address
+      refactor (re-ran the full suite after moving the logic, not just the
+      new code).
+    - test_tui.py: 44/44, two layers:
+        1. Pure logic (AppState, parse_command, formatting helpers) — no
+           curses, runs instantly. Covers every decision the app makes:
+           selection/scroll clamping, insert-mode gating (can't compose
+           with no chat open), command parsing, label formatting.
+        2. A REAL pty-driven integration smoke test (_tui_pty_harness.py),
+           not a mock. Spawns the actual curses app under a pseudo-terminal
+           with a pre-seeded identity/peer/message, and drives real
+           keystrokes through it: confirms startup renders correctly, Enter
+           opens a chat and shows the (correctly decrypted) pre-seeded
+           message with its verified checkmark, i/Esc actually enter and
+           cancel insert mode with the compose buffer behaving right, p
+           switches to peers view, q exits cleanly. This is exactly the
+           layer pure unit tests can't reach -- whether curses key codes
+           and rendering are wired up correctly, not just whether the
+           state-machine logic underneath is correct.
+
+    Hit one real methodology bug writing the pty test, worth recording:
+    after switching views, a raw substring check for the full word "peers"
+    failed. Root cause: curses only retransmits cells that actually changed
+    between frames (screen diffing), and the previous frame already had
+    "testbob" sitting in the exact same cells from the chat-list view (same
+    peer, same substring, different suffix) -- so ncurses correctly did NOT
+    retransmit it. The view switch was working; my raw-diff-substring
+    assertion wasn't equipped to account for diffing. Fixed the assertion
+    to check the part that actually does get retransmitted, and left a
+    comment explaining why, so the next person editing this test doesn't
+    have to rediscover it.
+
+    Message *sending* through the TUI is a thin call straight to
+    send_message() -- already covered end-to-end by test_security_fixes.py's
+    pipeline tests -- so the pty test deliberately stops at typing +
+    canceling rather than adding real network I/O to a UI smoke test.
+
+commit 2d2045f66b8684b0efec377a6f5280540208cb4e
+Author: Claude Code Review <review@local>
+Date:   Sun Aug 16 13:57:56 2026 +0000
+
+    add core/network/dht.py — Kademlia-style DHT for internet discovery
+
+    Same protocol family BitTorrent's mainline DHT (BEP 5) uses, adapted for
+    this app: instead of "who's seeding this infohash," a node announces
+    "I'm reachable at this address for this user_id," and a lookup asks the
+    swarm "who has announced for this hash" instead of asking for torrent
+    peers.
+
+    Read core/network/dht.py's module docstring before enabling this --
+    three things worth saying plainly here too:
+
+    - It does not solve NAT traversal. It only helps find a peer's last-
+      announced address; if that address isn't actually reachable (most
+      home routers block unsolicited inbound traffic without port
+      forwarding/UPnP), you'll find them but still can't connect. Same
+      limitation real BitTorrent DHT has -- it's a lookup mechanism, not a
+      hole-puncher.
+    - There's no public bootstrap infrastructure. A fresh node can't join
+      the DHT on its own -- you need at least one already-reachable peer's
+      address to bootstrap from (a second device, a friend's node, a VPS
+      you control), same as a torrent client needs a bootstrap node.
+    - Opt-in, not opt-out (dht_enabled config setting / --dht flag).
+      Joining a public DHT means announcing your address to a swarm of
+      strangers -- a meaningfully different exposure than LAN broadcast.
+      DHT lookup RESULTS get the exact same key-pinning treatment
+      discovery.py already applies to LAN results before ever being
+      trusted -- the DHT is a far more adversarial environment than your
+      own LAN, so an already-known peer showing up with different keys via
+      a DHT result gets rejected exactly like a spoofed LAN broadcast
+      would.
+
+    Implementation: 160-bit id space (SHA-1 of user_id), standard k-buckets
+    (k=8, oldest-evicted-first replacement rather than full ping-and-replace
+    -- correct behavior, less machinery, appropriate at this scale),
+    iterative find_node (alpha=3), JSON-over-UDP RPC (ping/find_node/
+    find_value/announce), TTL-based storage expiry with periodic republish.
+
+    Integration: Node gets an optional DHTNode when dht_enabled. send() falls
+    back to a DHT lookup when a peer isn't in the local peer_store, instead
+    of just failing. New CLI flags on `main.py run`: --dht, --dht-bootstrap
+    (repeatable), --dht-public-ip.
+
+    Found and fixed three real bugs while building this, the same way as
+    everywhere else this session -- by testing actual multi-node exchanges,
+    not by reading the protocol description and assuming the code matches
+    it:
+
+    1. Messages never actually carried each node's own DHT id anywhere
+       except in OTHER-nodes-discovered lists. The very first test (three
+       real node instances, real sockets) showed nodes never learning each
+       other directly despite valid exchanges happening -- fixed by having
+       every query and reply carry the sender's own id, and having both
+       sides of any successful RPC round-trip register each other properly
+       instead of the broken placeholder I'd used originally (hashing the
+       source ip:port string, which obviously isn't a node's real id).
+
+    2. announce_self() never included the announcer's own IP in the
+       announced value -- only the port. For LAN broadcast the source IP
+       comes for free from the received packet, but a DHT value gets
+       returned by a THIRD node, not the announcer -- so the ip has to be
+       IN the stored value or there's no way to know where to actually
+       connect. Fixed with a ping-echo address self-detection (same
+       principle STUN uses: ask a peer what source address they saw you
+       connecting from) plus an explicit override for when you already know
+       your own reachable address (e.g. a VPS).
+
+    3. announce_self() only pushed the value to the K closest OTHER nodes
+       find_node() returns -- which structurally never includes yourself,
+       since routing tables don't hold a contact for your own id. In a
+       small network (confirmed with exactly the 2-node case), that value
+       can end up stored only on a peer who then gets asked about a DIFFERENT
+       key when someone looks YOU up -- the announcer never had a queryable
+       copy of their own announcement. Fixed by also self-storing on
+       announce, which real Kademlia implementations do too, for the same
+       resilience reason.
+
+    Also hit a real environment quirk while testing address self-detection:
+    this sandbox's container networking rewrites loopback UDP source
+    addresses to a synthetic 192.0.2.2, which isn't a real dialable address
+    here -- confirmed with a raw-socket reproduction independent of any DHT
+    code, so it's a property of this container, not the technique (which is
+    standard, well-established practice on real networks). Documented as a
+    known caveat; the explicit --dht-public-ip override exists partly for
+    exactly this class of environment (also relevant for real users running
+    under Docker/WSL/similar).
+
+    test_dht.py: 22 checks, real UDP sockets across up to four concurrent
+    node instances (no mocks) -- bootstrap, routing table population,
+    iterative find_node, announce/find_value, self-storage, address
+    self-detection, the security cross-check, and one full end-to-end
+    Node.send() to a peer known ONLY through DHT resolution, never seen on
+    a LAN or manually paired.
+
+    Full existing suites unaffected: test_security_fixes.py 28/28,
+    test_tui.py 44/44, test_multi_profile.py 7/7. 101 tests passing total
+    across the whole session.
+
+commit 01d0a0a86707feab3b40773bd8945903843d7b81
+Author: Claude Code Review <review@local>
+Date:   Thu Aug 20 06:59:42 2026 +0000
+
+    fix remaining items from the review follow-up list, working through them one at a time with real tests rather than assuming any of them were fine
+
+    1. WebSocket push and two-concurrent-web.py-processes were both flagged
+       as "untested claims" -- tested both for real. WS push: spawned a real
+       web.py server, connected a genuine WebSocket client (websockets
+       library), POSTed an inbound envelope to the real transport endpoint,
+       confirmed the client gets pushed a new_message event without polling.
+       It works correctly -- my top suspicion here was wrong, worth saying
+       plainly rather than only reporting bugs. Two web.py processes for two
+       profiles: also genuinely concurrent, no port collision, fully
+       isolated identities. Both now have permanent tests
+       (test_ws_push.py, test_web_multi_profile.py).
+
+    2. update.py: added the missing returncode check on the openssl
+       verify subprocess (was relying on stdout string matching alone) and
+       a path-traversal guard on manifest entries (reject anything
+       escaping the app's own base_dir before ever touching the
+       filesystem with it). Tested against a real openssl keypair: valid
+       signed update applies, a post-signing-tampered manifest is
+       rejected, and a validly-signed manifest containing a `../../../`
+       path is rejected and never writes outside the app directory.
+       test_update.py, 8/8.
+
+    3. crypto_manager.py: the flagged performance issue was real --
+       Scrypt(n=2**14) was re-derived from scratch on EVERY encrypt/decrypt
+       call, because the old scheme fed a fresh random per-message salt
+       directly into Scrypt. Fixed by splitting the key schedule: Scrypt now
+       runs ONCE per CryptoManager instance, against a FIXED salt persisted
+       alongside the identity (IdentityManager.crypto_salt, generated once,
+       chmod 600 like the key files). Each message still gets a unique key,
+       via a cheap HKDF step keyed by its own random per-message salt --
+       domain separation is preserved, only the expensive part stopped
+       repeating. Bumped the schema to v2; old v1 tokens are explicitly
+       rejected with a clear "predates this update" error rather than
+       silently mishandled.
+         Measured, not assumed: 30 decrypts with the fix took 0.001s total.
+       30 raw Scrypt derivations at the same parameters (what the old code
+       actually paid, once per message) took 0.961s. That's the concrete
+       shape of the original complaint -- "reading a chat history means
+       running scrypt a few hundred times to render one screen" on a 4GB
+       RAM machine -- and it's now close to eliminated for anything past
+       the first message in a session.
+         Also fixed core/crypto/test_crypto.py, which has apparently never
+       successfully run in this repo's history -- broken relative import
+       (`from crypto_manager import ...` outside its own directory) meant
+       pytest couldn't even collect it, confirmed back when this file was
+       first flagged in the original review. Fixed the import and updated
+       its 3 CryptoManager call sites for the new required root_salt
+       parameter; it now actually runs and passes.
+         test_crypto_performance.py, 17/17: correctness (wrong passphrase
+       rejected, wrong salt rejected even with the right passphrase, tamper
+       detection, old-schema rejection), the performance claim itself
+       measured directly, and identity_salt persistence through a real
+       save -> fresh-instance -> load cycle, including graceful handling of
+       an identity that predates crypto_salt existing at all.
+
+    Full regression: every test file in the repo still passes --
+    test_security_fixes.py 28/28, test_tui.py 44/44, test_multi_profile.py
+    7/7, test_dht.py 22/22 -- 140 tests total now.
+
+    Still open from the list, not done in this commit: SMS/Bluetooth
+    plugin audit, and DHT configuration UI in web.py/tui.py (both larger,
+    separate pieces of work).
+
+commit db67f5f18fabfabd621c120a4a5326c719f646dd
+Author: Claude Code Review <review@local>
+Date:   Thu Aug 20 20:24:03 2026 +0000
+
+    audit: SMS gateway and Bluetooth plugins — two real bugs found and fixed
+
+    You flagged these as "untouched, unknown state" in the review follow-up.
+    Audited both.
+
+    Bigger-picture finding first, not fixed here since it's a separate,
+    sizable piece of work: web.py has ZERO plugin-management routes at
+    all -- no enable/disable/configure endpoints for anything. The whole
+    plugin architecture (settings schemas, enable/disable, builtin+user
+    plugins) is currently unreachable from the actual web UI. Only the
+    "legacy" /api/sms/* routes (which call SMSGateway.from_config()
+    directly, bypassing the plugin system entirely) are actually usable
+    today. Flagging this plainly rather than silently building a plugin UI
+    nobody asked for.
+
+    sms_gateway/main.py: Plugin.get_sms_instance() imported from
+    core.plugins.sms_gateway, which doesn't exist (real path is
+    core.plugins.builtin.sms_gateway.sms_gateway). This wasn't purely
+    theoretical dead code -- main.py's send_sms() calls exactly this method
+    whenever plugin_manager has sms_gateway enabled (which the CLI/config
+    file can do even without any web route), so it was a real bug on a
+    reachable path, just one nothing had exercised yet.
+
+    core/plugins/builtin/bluetooth/main.py: chat_id_from_mac() unconditionally
+    prepended 'BT:' regardless of whether the input already had that prefix
+    -- calling it on an already-prefixed value produced 'BT:BT:AA:BB:...'.
+    Not currently firing: the one real caller (classify_address(), used by
+    both /api/chats/new and tui.py's :new command) already worked around it
+    by always composing chat_id_from_mac(mac_from_chat_id(x)) -- but that
+    required composition was neither documented nor enforced, and a future
+    direct call would have silently produced a wrong chat_id. Made the
+    function idempotent instead of just leaving a landmine documented.
+
+    Also found, while tracing main.py's bluetooth wiring: main.py maintains
+    its own separate BluetoothPlugin instance (a module-level _bt global via
+    get_bluetooth()), entirely independent of whatever bluetooth plugin
+    instance plugin_manager.discover() registers. Two different objects.
+    Not a live bug today (nothing currently enables/configures bluetooth
+    through the plugin manager, per the finding above), but it means the
+    plugin-manager path and the actually-used path would silently diverge
+    the moment plugin-management UI exists. Flagging, not restructuring --
+    that's a real refactor with its own testing burden, out of scope for an
+    audit pass.
+
+    test_sms_gateway.py, 29/29: pure host:port parsing, SMSGateway
+    construction (local/cloud modes), from_config(), request construction
+    with requests.post mocked (there's no real android-sms-gateway device
+    to send to), the plugin wrapper end-to-end (discover -> enable ->
+    configure -> get_sms_instance(), the exact call that used to raise
+    ModuleNotFoundError), and the bluetooth chat_id helper functions
+    directly (previously only exercised indirectly through
+    classify_address(), never tested on their own -- which is exactly how
+    the double-prefix bug went unnoticed).
+
+    Full regression: 169 tests passing across every test file in the repo.
+
+commit 8dd05391e9e71e2acd4c8d37c790a7aa437dfa62
+Author: Claude Code Review <review@local>
+Date:   Sat Aug 22 13:20:36 2026 +0000
+
+    web UI for profiles + DHT config — the two "gaps I created" items, plus the profile management UI you asked for directly
+
+    Profiles tab (new, plural — distinct from the existing singular
+    "Profile" tab, which is about the current session's own display name):
+    list/create/rename/delete, using backend routes that already existed
+    and were already fully correct (tested all of them first, 16/16, before
+    writing a line of frontend — genuinely solid code, worth saying so
+    rather than only reporting bugs).
+
+    The one thing that needed to be gotten right here was honesty about
+    what "switching profiles" actually means in this app's real
+    architecture: main.py's module-level state means one process is one
+    profile, confirmed extensively earlier this session. set_active_profile()
+    only writes the registry file — it has no way to reach into an
+    already-running process and swap its live identity/chats/peers, node or
+    no node running. An "activate" button that implied otherwise would be
+    a UI lie. So: "set as default" is labeled and explained as only
+    affecting the next command-line launch with no --profile flag, and
+    every profile row shows its own clickable URL (its own web_port) since
+    that's the actually-correct way to use a different profile — open it
+    separately, same as a different account in a different browser profile.
+    Said this plainly in the panel's own copy, not just in a commit message
+    nobody using the app will ever read.
+
+    DHT config UI: added to the existing Node panel (enable checkbox,
+    bootstrap-nodes textarea, optional public-IP override), backed by two
+    new routes, /api/config/dht (GET/POST) — bootstrap addresses are
+    validated as host:port before saving, same "reject clearly rather than
+    silently accept garbage" pattern as /api/chats/new. Also honest about
+    scope: config changes take effect the next time the node starts, not
+    live on an already-running one (dynamically hot-swapping a running
+    Node's DHT state is real additional work I didn't do here) — the save
+    confirmation says this explicitly rather than implying it applied
+    instantly.
+
+    Caught a real bug immediately via testing, not by inspection: forgot
+    `import re` in web.py after moving classify_address() into main.py a
+    few commits back, which meant the new module-level regex compile
+    crashed on import — the exact "would have broken nothing else on paper
+    but crashes the whole process" class of bug this session keeps finding.
+    The very first test run caught it before any frontend work happened.
+
+    Verified beyond structural checks (JS syntax, CSS brace balance,
+    duplicate identifiers, dangling element-id references — all the things
+    that have bitten this session before): a real running web.py server,
+    driven through an actual headless Chromium — opened Profiles tab,
+    created a profile through the real UI, confirmed it appears with a
+    working link, saved DHT settings, switched tabs and back, confirmed the
+    values actually persisted rather than just looking saved. Screenshotted
+    both desktop and mobile widths; the mobile responsive work from earlier
+    this session (horizontal scrollable settings tabs, etc.) holds up
+    correctly with the new tab added.
+
+    Full regression: all 169 tests across every file in the repo still
+    pass.
+
+commit 2ee17e26c67a1b17427757fa3ae2226bbd35bde1
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Sat Aug 22 19:41:50 2026 +0530
+
+    Sec: Signing files
+
+commit d7e6e8df9284572a39ddc9442cca33245afca7d2
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:13:28 2026 +0530
+
+    fix: Update the string in set.py to let teh user know that they can also use tui.py, which is still very buggy :P
+
+commit 02ac2adfa0e396837923f41a4dc6f549ff987ed8
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:14:33 2026 +0530
+
+    Sec: Sign
+
+commit decb63c4641cbacbdfcdc4748b65228fe3ee9bf6
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:23:15 2026 +0530
+
+    Feat: Add tests
+
+commit b0fbf8d952e708d7c552cedc1d9d1a0c2cf10e1a
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:27:36 2026 +0530
+
+    test: test
+
+commit 16438424bbc6819a5cd6cae00b21d6b497181ea2
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:33:49 2026 +0530
+
+    test: test
+
+commit 89c135224bbade230eb23465406d2ce95af0c831
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:35:39 2026 +0530
+
+    test: test
+
+commit e4a67a04bb72bc09c1d868d3c3e5de73611cbec3
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:36:43 2026 +0530
+
+    test: test
+
+commit 122aae4dec07a4687701c24014cb88453a7a55e2
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:41:36 2026 +0530
+
+    fix: add websockets to requirements
+
+commit 898407e79838d33b0ad666b581d4f5684ebf3806
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:45:55 2026 +0530
+
+    fix: fix the test
+
+commit 9b72835c15d53089419770a73d60837e2dd85368
+Author: Chinglen2080 <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Aug 27 18:57:44 2026 +0530
+
+    Uncomment step_self_destruct in set.py
+
+commit a6a34ec02e77717e54ff2edbb59d3b7320bf6ea4
+Author: Claude Code Review <review@local>
+Date:   Fri Aug 28 09:09:01 2026 +0000
+
+    fix: creating a profile through the web UI produced something you couldn't actually use
+
+    Real bug report, not something I found myself: "the new profile ui
+    doesn't let me add a passphrase and it doesn't initiate the profile,
+    so i cant use it after creating it." Confirmed exactly right.
+    /api/profiles POST only ever wrote a registry entry -- name and two
+    port numbers. No identity (no passphrase field existed anywhere in the
+    request, the form, or the route), and nothing was ever started
+    listening on the new profile's port. The link shown in the profiles UI
+    pointed at an address nothing was serving.
+
+    I'd tested the API contract thoroughly (16/16, still true) and never
+    tested the actual follow-through: can you do anything with the profile
+    afterward. That gap is exactly how this got through -- same shape of
+    bug as the message pipeline and /api/chats/new earlier this session,
+    found by API-level testing that never walked the full user journey.
+
+    Fixed both halves:
+    - /api/profiles POST now requires a passphrase, and actually creates an
+      identity for the new profile with it (same generate_new_identity() +
+      save_identity() pattern /api/identity/generate already uses for the
+      active profile, pointed at the new profile's own data_dir instead).
+    - Then spawns a real `web.py --profile <name> --port <port>` process
+      in the background (detached via start_new_session=True, so it
+      outlives this request and isn't tied to the parent's lifetime --
+      that's the point, these are meant to run independently). So the link
+      shown in the UI is real the moment the response comes back, not
+      aspirational.
+    - Frontend: added the missing passphrase field to the create-profile
+      form, wired it through, and the success message now honestly reflects
+      what happened -- "created and running" when the process actually
+      started, or the exact manual command to run it yourself if the spawn
+      failed for some reason, rather than a generic success message either
+      way.
+
+    Caught a second, unrelated regression while re-verifying this: `pip
+    install -r requirements.txt` in a fresh environment surfaced that
+    flask_sock genuinely wasn't installed in this session's container after
+    a reset — not a code bug, but worth noting since it's exactly the kind
+    of thing that silently disables the /ws route (_SOCK_AVAILABLE check)
+    without any error, which is a real trap for anyone setting this up
+    fresh. No code change needed here, just flagging it.
+
+    test_profile_creation.py, 9/9: reproduces the original bug exactly (no
+    passphrase -> now correctly rejected, was silently accepted before),
+    then drives the real fix end-to-end through actual HTTP -- create with
+    a passphrase, confirm the response says the process started, confirm
+    the new profile's OWN url is actually reachable (the literal complaint:
+    "can't use it after creating it"), and confirm the identity can really
+    be unlocked there with the passphrase that was given. Also verified
+    through an actual browser (Playwright): submitting with no passphrase
+    is blocked client-side with a clear message, submitting with one shows
+    "created and running" and the link genuinely resolves.
+
+    Full regression: 220 tests passing across every file in the repo.
+
+commit 55e9c58bb872f3c4897bb961c312c88400b1a96b
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Mon Aug 31 21:28:33 2026 +0530
+
+    feat: make reset.py remove more stuff
+
+commit 2e7312938df15edd555aef3f085bdae4475b2fcc
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Tue Sep 1 18:26:16 2026 +0530
+
+    fix: FIXED THE ROUTER WHICH WAS MESSING EVERYTHING UP!!!
+
+commit 9738c1572f453c25a32d63b1e0eb80b4aa6ea350
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Sep 3 00:03:34 2026 +0530
+
+    fix: Redo the readme and hope for the best
+
+commit 8fa7be9eeadecb55cd0769d6f9abd7e08e0c6771
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Sep 3 18:31:24 2026 +0530
+
+    fix: add govt of manipur to the credits
+
+commit 8d714d15b2889225e568ead59ca2b9319b0bb02f
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Thu Sep 3 20:14:25 2026 +0530
+
+    fix: add setup stuff
+
+commit 478203277271495d644eea68a97e409d827865d8 (HEAD -> main, origin/main, origin/HEAD)
+Author: Chinglen Meetei <106335829+Chinglen2080@users.noreply.github.com>
+Date:   Fri Sep 4 17:26:02 2026 +0530
+
+    Convert video files to Git LFS
+</body>
+</html>
